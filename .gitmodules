@@ -1,0 +1,3 @@
+[submodule "JavaSeleniumDemo"]
+	path = JavaSeleniumDemo
+	url = https://github.com/applitools/JavaSeleniumDemo.git
